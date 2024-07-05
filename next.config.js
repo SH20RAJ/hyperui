@@ -2,4 +2,5 @@
 module.exports = {
   reactStrictMode: true,
   transpilePackages: ['next-mdx-remote'],
+  output: "export
 }
